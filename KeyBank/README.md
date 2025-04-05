@@ -29,7 +29,7 @@ Public_Python_Projects/
 
 ```bash or CMD
 git clone https://github.com/abinash2017/Public_Python_Projects.git
-cd Public_Python_Projects
+cd Public_Python_Projects/KeyBank
 ```
 
 ### 2. Install Python Dependencies
