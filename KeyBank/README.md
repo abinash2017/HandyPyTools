@@ -13,7 +13,7 @@ This repo includes self-contained Python scripts such as:
 ## 📁 Project Structure
 
 ```
-Public_Python_Projects/
+HandyPyTools/
 │
 ├── password_manager.py     # Main script to insert/retrieve passwords
 ├── pwcreate.py             # Module to generate secure passwords & get timestamps
@@ -28,8 +28,8 @@ Public_Python_Projects/
 ### 1. Clone the Repository
 
 ```bash or CMD
-git clone https://github.com/abinash2017/Public_Python_Projects.git
-cd Public_Python_Projects/KeyBank
+git clone https://github.com/abinash2017/HandyPyTools.git
+cd HandyPyTools/KeyBank
 ```
 
 ### 2. Install Python Dependencies
