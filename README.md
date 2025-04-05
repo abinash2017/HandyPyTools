@@ -1,4 +1,4 @@
-# Public_Python_Projects
+# HandyPyTools
 
 A curated collection of small, standalone Python projects and utilities for everyday tasks.
 
@@ -9,7 +9,7 @@ This repository serves as a central hub for various useful scripts and tools, ea
 ## 📁 Repository Structure
 
 ```
-Public_Python_Projects/
+HandyPyTools/
 │
 ├── KeyBank/                # A project for password storage and retrieval using SQL Server
 │   ├── password_manager.py
@@ -37,8 +37,8 @@ Each project folder is self-contained and includes its own README for usage and 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Public_Python_Projects.git
-   cd Public_Python_Projects
+   git clone https://github.com/abinash2017/HandyPyTools.git
+   cd HandyPyTools
    ```
 
 2. **Browse into a project**
