@@ -27,14 +27,14 @@ Public_Python_Projects/
 
 ### 1. Clone the Repository
 
-```bash
-git clone https://github.com/yourusername/Public_Python_Projects.git
+```bash or CMD
+git clone https://github.com/abinash2017/Public_Python_Projects.git
 cd Public_Python_Projects
 ```
 
 ### 2. Install Python Dependencies
 
-```bash
+```bash or CMD
 pip install pymssql colorama
 ```
 
@@ -53,7 +53,7 @@ Then, execute the `script.sql` file to create the required table:
 
 ## 💻 How to Run
 
-```bash
+```bash or CMD
 python password_manager.py
 ```
 
