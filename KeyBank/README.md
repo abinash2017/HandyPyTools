@@ -13,7 +13,7 @@ This repo includes self-contained Python scripts such as:
 ## 📁 Project Structure
 
 ```
-HandyPyTools/
+HandyPyTools/KeyBank
 │
 ├── password_manager.py     # Main script to insert/retrieve passwords
 ├── pwcreate.py             # Module to generate secure passwords & get timestamps
