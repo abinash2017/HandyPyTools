@@ -1,6 +1,5 @@
 import random
 import string
-from colorama import Fore
 from datetime import datetime
 
 upper = string.ascii_uppercase
