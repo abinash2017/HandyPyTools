@@ -1,4 +1,4 @@
-import random
+import secrets
 import string
 from datetime import datetime
 
@@ -11,8 +11,8 @@ position = [upper,lower,number,symbol]
 def get_password(length=12):
     password = ""
     for _ in range(length):
-        random_chice = random.choice(position)
-        x = random.choice(random_chice)
+        random_chice = secrets.choice(position)
+        x = secrets.choice(random_chice)
         password += x
     return password
 current_time = datetime.now()
